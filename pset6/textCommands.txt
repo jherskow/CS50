@@ -1,0 +1,9 @@
+COMMON TEXT COMMANDS FOR TERMINAL
+
+~cs50/pset6/server public
+
+./server public
+
+valgrind ./server public --leak-check=full
+
+valgrind --leak-check=full ./server public 

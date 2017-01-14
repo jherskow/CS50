@@ -1,0 +1,25 @@
+SERVER START:
+
+apache50 start ~/workspace/pset7/public
+
+mysql50 start
+
+
+Henceforth, for any PHP file, file, that you create, execute
+
+chmod 600 file
+
+For any non-PHP file, file, that you create (or upload), execute
+
+chmod 644 file
+so that it’s accessible via a browser (if that’s indeed your intention).
+
+And for any directory, directory, that you create, execute
+
+chmod 711 directory
+
+MySQL Username	jjherskow
+MySQL Password	v1kCjsvLYytrBTGV
+
+jjherskow@ide50:~/workspace/pset7 $ mysqldump -u jjherskow -p pset7 > pset7.sql                                                     
+Enter password: 

@@ -1,0 +1,29 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+0.  range is 3-9 by 3-9:
+
+3x3 3x4 3x5 .... 3X9
+4x3 4x4 4x5 .... 4x9
+.
+.
+.
+. etc etc
+9x3 9x4 9x5 .... 9x9
+
+1. a matrix; an array of arrays: matrix [5] [4] means location [4] or array # 5. usually visualised as a grid, although in is still two-dimentional within the machin (i assume/guss)
+
+2. the function "greet", which accepts no input/arguments
+
+3. init, draw, move and won
+
+
+Besides 4 × 4 (which are Game of Fifteen’s dimensions), what other dimensions does the framework allow?
+
+With what sort of data structure is the game’s board represented?
+
+What function is called to greet the player at game’s start?
+
+What functions do you apparently need to implement?
