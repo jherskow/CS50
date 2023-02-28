@@ -1,8 +1,6 @@
 
 # CS50 Coursework 
 
-## other
-bla bla
 ## Problem sets from CS50
 Problem sets completed from Harvard's Online offering of **CS50: Introduction to Computer Science**. 
 
